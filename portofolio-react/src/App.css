@@ -1,0 +1,14 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Evitar el scroll de la página */
+}
+
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 4em;
+}
